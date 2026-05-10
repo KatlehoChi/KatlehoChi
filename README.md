@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-## 👋 About Me
+## About Me
 
 Based in South Africa, I’m currently transitioning into the tech industry, studying cybersecurity and getting relevant certifications while improving my coding skills. I’ve already graduated from a software engineering cohort, and now I’m sharpening what I’ve learned, experimenting with projects, and exploring how security and development connect.
 
 ### What I’m Into
 - 🌟Cybersecurity fundamentals & hands-on practice  
-- 🌟Coding (Python, JavaScript, and more)  
+- 🌟Coding (Python, JavaScript, C# and more)  
 - 🌟Building projects that combine security + software engineering  
 
 ## Fun Facts About Me
