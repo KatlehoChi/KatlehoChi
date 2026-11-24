@@ -10,12 +10,12 @@ I am currently seeking learnerships and entry-level opportunities while continui
 
 ## 🎯 Goals
 
-- Secure a technology learnership or junior role
-- Strengthen my software development skills
-- Develop practical cybersecurity experience
-- Expand my cloud computing knowledge
-- Build projects that combine development and security principles
-- Continue learning and growing within the technology industry
+- Secure a technology learnership or junior role.
+- Strengthen my software development skills.
+- Develop practical cybersecurity experience.
+- Expand my cloud computing knowledge.
+- Build projects that combine development and security principles.
+- Continue learning and growing within the technology industry.
   
  ## 🎨 About Me
 
